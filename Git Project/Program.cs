@@ -4,6 +4,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Workflow working properly");
+        Console.WriteLine("Final CI CD run");
     }
 }
